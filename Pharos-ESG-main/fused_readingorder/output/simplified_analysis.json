@@ -1,0 +1,228 @@
+{
+  "layout_analysis": {
+    "layout_type": "vertical_manhattan",
+    "num_regions": 1,
+    "max_depth": 1
+  },
+  "reading_order": {
+    "final_order": [
+      1,
+      5,
+      2,
+      6,
+      3,
+      7,
+      4,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "macro_blocks": [
+      [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    ],
+    "num_macro_blocks": 1,
+    "avg_block_size": 12.0
+  },
+  "processing_stats": {
+    "total_elements": 12,
+    "macro_blocks": 1,
+    "processing_time": 0.00018715858459472656
+  },
+  "element_details": [
+    {
+      "id": 1,
+      "content_preview": "Corporate Governance Report",
+      "category": "title",
+      "bbox": [
+        50,
+        50,
+        300,
+        80
+      ],
+      "center": [
+        175.0,
+        65.0
+      ]
+    },
+    {
+      "id": 5,
+      "content_preview": "Key Performance Indicators",
+      "category": "title",
+      "bbox": [
+        350,
+        50,
+        600,
+        80
+      ],
+      "center": [
+        475.0,
+        65.0
+      ]
+    },
+    {
+      "id": 2,
+      "content_preview": "Executive Summary: This report outlines our govern...",
+      "category": "text",
+      "bbox": [
+        50,
+        100,
+        300,
+        180
+      ],
+      "center": [
+        175.0,
+        140.0
+      ]
+    },
+    {
+      "id": 6,
+      "content_preview": "Figure 1: Governance Metrics Dashboard",
+      "category": "image",
+      "bbox": [
+        350,
+        100,
+        600,
+        200
+      ],
+      "center": [
+        475.0,
+        150.0
+      ]
+    },
+    {
+      "id": 3,
+      "content_preview": "Board Structure Overview",
+      "category": "text",
+      "bbox": [
+        50,
+        200,
+        300,
+        220
+      ],
+      "center": [
+        175.0,
+        210.0
+      ]
+    },
+    {
+      "id": 7,
+      "content_preview": "The above chart shows our governance performance m...",
+      "category": "text",
+      "bbox": [
+        350,
+        220,
+        600,
+        280
+      ],
+      "center": [
+        475.0,
+        250.0
+      ]
+    },
+    {
+      "id": 4,
+      "content_preview": "Our board consists of 12 directors with diverse ex...",
+      "category": "text",
+      "bbox": [
+        50,
+        240,
+        300,
+        320
+      ],
+      "center": [
+        175.0,
+        280.0
+      ]
+    },
+    {
+      "id": 8,
+      "content_preview": "Risk Management Framework",
+      "category": "text",
+      "bbox": [
+        350,
+        300,
+        600,
+        320
+      ],
+      "center": [
+        475.0,
+        310.0
+      ]
+    },
+    {
+      "id": 9,
+      "content_preview": "Our comprehensive risk management approach include...",
+      "category": "text",
+      "bbox": [
+        350,
+        340,
+        600,
+        420
+      ],
+      "center": [
+        475.0,
+        380.0
+      ]
+    },
+    {
+      "id": 10,
+      "content_preview": "Table 1: Director Independence and Tenure",
+      "category": "table",
+      "bbox": [
+        50,
+        450,
+        600,
+        550
+      ],
+      "center": [
+        325.0,
+        500.0
+      ]
+    },
+    {
+      "id": 11,
+      "content_preview": "Conclusion and Future Outlook",
+      "category": "title",
+      "bbox": [
+        50,
+        570,
+        600,
+        590
+      ],
+      "center": [
+        325.0,
+        580.0
+      ]
+    },
+    {
+      "id": 12,
+      "content_preview": "Looking ahead, we remain committed to maintaining ...",
+      "category": "text",
+      "bbox": [
+        50,
+        610,
+        600,
+        680
+      ],
+      "center": [
+        325.0,
+        645.0
+      ]
+    }
+  ]
+}

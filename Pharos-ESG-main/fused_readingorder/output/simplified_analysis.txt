@@ -1,0 +1,28 @@
+=== Simplified Reading Order Analysis Report ===
+
+Layout Type: vertical_manhattan
+Number of Regions: 1
+Maximum Depth: 1
+
+Final Reading Order: [1, 5, 2, 6, 3, 7, 4, 8, 9, 10, 11, 12]
+Number of Macro Blocks: 1
+Average Block Size: 12.0
+
+Processing Statistics:
+  Total Elements: 12
+  Macro Blocks: 1
+  Processing Time: 0.00s
+
+Element Details:
+  ID 1: title - Corporate Governance Report
+  ID 5: title - Key Performance Indicators
+  ID 2: text - Executive Summary: This report outlines our govern...
+  ID 6: image - Figure 1: Governance Metrics Dashboard
+  ID 3: text - Board Structure Overview
+  ID 7: text - The above chart shows our governance performance m...
+  ID 4: text - Our board consists of 12 directors with diverse ex...
+  ID 8: text - Risk Management Framework
+  ID 9: text - Our comprehensive risk management approach include...
+  ID 10: table - Table 1: Director Independence and Tenure
+  ID 11: title - Conclusion and Future Outlook
+  ID 12: text - Looking ahead, we remain committed to maintaining ...

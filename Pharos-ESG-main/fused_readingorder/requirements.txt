@@ -1,0 +1,153 @@
+# Fused Reading Order Modeling Dependencies
+# Core dependencies for coarse-to-fine reading order prediction
+
+# Deep Learning and Machine Learning
+torch>=2.0.0
+torchvision>=0.15.0
+transformers>=4.33.0
+sentence-transformers>=2.2.0
+numpy>=1.24.0
+scipy>=1.11.0
+scikit-learn>=1.3.0
+
+# Computer Vision and Image Processing
+opencv-python>=4.8.0
+Pillow>=10.0.0
+
+# HuggingFace Integration
+huggingface-hub>=0.16.0
+datasets>=2.14.0
+
+# Data Processing
+pandas>=2.0.0
+json5>=0.9.14
+
+# Logging and Utilities
+logging>=0.4.9.6
+tqdm>=4.65.0
+
+# Type Hints and Validation
+typing-extensions>=4.7.0
+dataclasses>=0.6
+
+# File and Path Operations
+pathlib2>=2.3.7
+
+# Collections and Data Structures
+collections>=1.0.0
+
+# Enum Support
+enum34>=1.1.10
+
+# Optional: GPU Support
+cupy-cuda11x>=12.2.0
+
+# Development and Testing
+pytest>=7.4.0
+pytest-cov>=4.1.0
+mypy>=1.5.0
+
+# Code Quality
+black>=23.7.0
+flake8>=6.0.0
+isort>=5.12.0
+
+# Documentation
+sphinx>=7.1.0
+sphinx-rtd-theme>=1.3.0
+
+# Visualization (Optional)
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.15.0
+
+# Performance Optimization
+numba>=0.58.0
+joblib>=1.3.0
+
+# Configuration Management
+pyyaml>=6.0.1
+toml>=0.10.2
+
+# Progress Tracking
+rich>=13.5.0
+click>=8.1.0
+
+# Memory Profiling
+memory-profiler>=0.61.0
+psutil>=5.9.0
+
+# Jupyter Notebook Support (Development)
+jupyter>=1.0.0
+notebook>=7.0.0
+ipython>=8.15.0
+
+# Model Serving (Optional)
+fastapi>=0.103.0
+uvicorn>=0.23.0
+
+# Async Processing
+aiofiles>=23.2.0
+aiohttp>=3.8.0
+
+# Character Encoding
+chardet>=5.2.0
+
+# Time and Date
+python-dateutil>=2.8.2
+
+# Environment Management
+python-dotenv>=1.0.0
+
+# Caching
+cachetools>=5.3.0
+diskcache>=5.6.0
+
+# Network Requests
+requests>=2.31.0
+urllib3>=2.0.4
+
+# JSON Schema Validation
+jsonschema>=4.19.0
+
+# Statistical Analysis
+statsmodels>=0.14.0
+
+# Graph Processing (Optional)
+networkx>=3.1.0
+
+# Text Processing
+nltk>=3.8.1
+spacy>=3.6.0
+
+# Model Compression (Optional)
+onnx>=1.14.0
+onnxruntime>=1.15.0
+
+# Distributed Computing (Optional)
+ray>=2.6.0
+dask>=2023.8.0
+
+# Database Support (Optional)
+sqlalchemy>=2.0.0
+
+# Cloud Storage (Optional)
+boto3>=1.28.0
+google-cloud-storage>=2.10.0
+
+# Monitoring
+prometheus-client>=0.17.0
+wandb>=0.15.0
+
+# Version Control Integration
+gitpython>=3.1.0
+
+# Container Support
+docker>=6.1.0
+
+# API Documentation
+fastapi-docs>=0.1.0
+
+# Workflow Management
+airflow>=2.7.0
+prefect>=2.10.0

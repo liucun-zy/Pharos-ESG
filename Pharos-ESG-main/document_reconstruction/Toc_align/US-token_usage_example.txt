@@ -1,0 +1,40 @@
+Processing start time: 2025-09-12 21:17:13
+================================================================================
+Detailed API call records:
+Operation Type,File Name,Input Tokens,Output Tokens,Total Tokens,Insert Status,Target Title
+
+================================================================================
+Starting to process file 1: NYSE_MCK_2021\grouped.md
+Start time: 2025-09-12 21:17:13
+================================================================================
+Current file unmatched titles count: 26
+插入位置分析,NYSE_MCK_2021\grouped.md,2308,151,2459,待处理,A message from our Chief Executive Officer
+
+[Real-time Summary] - Update time: 01:43:44
+Files processed: 488
+Total input tokens: 9419510
+Total output tokens: 584675
+Total token consumption: 10004185
+Successful insertions: 3021
+Failed insertions: 0
+Insertion result: Title='OUR COMMUNITY', Status=Success, Reason=兜底插入到范围起点行号 1
+
+File 'NYSE_NP_2020\grouped.md' processing summary:
+  - Input tokens: 14820
+  - Output tokens: 798
+  - Total tokens: 15618
+  - Completion time: 2025-09-13 01:43:44
+
+================================================================================
+Final Processing Summary
+================================================================================
+Processing completion time: 2025-09-13 01:43:44
+Total files processed: 488
+Total input tokens: 9419510
+Total output tokens: 584675
+Total token consumption: 10004185
+Total unmatched titles: 3112
+Successfully inserted titles: 3022
+Failed inserted titles: 0
+Insertion success rate: 100.0% (if insertion operations exist)
+================================================================================
