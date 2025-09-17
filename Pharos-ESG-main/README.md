@@ -24,7 +24,7 @@ AAAI_code/
 #### Raw Data Preprocessing (`raw_data_preprocessing/`)
 - **MinerU Integration**: Advanced PDF parsing with layout analysis
 - **OCR Processing**: PaddleOCR with GPU acceleration for robust text recognition
-- **Multi-language Support**: including Chinese, English, 
+- **Multi-language Support**: including Simplified Chinese, Traditional Chinese, and English
 - **Structured Output**: JSON-formatted content with image extraction
 
 **Key Features**:
