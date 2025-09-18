@@ -243,6 +243,6 @@ The overall performance of the pipeline is measured through the evaluation of it
 ### API Compatibility
 
 - **OpenAI-compatible**: GPT-4V, GPT-4-Turbo
-- **Anthropic**: Claude-3 Vision
-- **Google**: Gemini Pro Vision
+- **Alibaba Cloud**: Qwen2.5-VL
+- **DeepSeek**: DeepSeek-V3
 - **Custom**: Any OpenAI-compatible endpoint
