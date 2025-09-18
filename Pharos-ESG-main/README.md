@@ -201,10 +201,10 @@ Each module can be used independently. Refer to individual module READMEs for de
 
 ### Key Performance Indicators
 The overall performance of the pipeline is measured through the evaluation of its core modules, and the following key results have been achieved:
-- Layout Analysis: The system achieved an F1-Score of 92.04% on the initial document structuring task, providing a reliable layout foundation for subsequent modules.
-- Reading Order Modeling: Using the Kendall's Tau metric to measure the correlation between the predicted and ground-truth sequences, our model scored 0.92, demonstrating its precision in capturing complex document flows.
-- ToC Parsing (ToC-RAP): For the core table of contents parsing module, we achieved a comprehensive accuracy of 94.84% on the combined task of restoring hierarchical relationships and textual content.
-- Hierarchical Alignment & Insertion: On the most challenging alignment tasks requiring anchor-based reasoning (i.e., Stage 2 of ToC-ALIGN), the model reached an insertion accuracy of 92.46%, showcasing its robustness in handling ambiguous matches.
+- Layout Analysis: The system achieved an F1-Score of **92.04%** on the initial document structuring task, providing a reliable layout foundation for subsequent modules.
+- Reading Order Modeling: Using the Kendall's Tau metric to measure the correlation between the predicted and ground-truth sequences, our model scored **0.92**, demonstrating its precision in capturing complex document flows.
+- ToC Parsing (ToC-RAP): For the core table of contents parsing module, we achieved a comprehensive accuracy of **94.84%** on the combined task of restoring hierarchical relationships and textual content.
+- Hierarchical Alignment & Insertion: On the most challenging alignment tasks requiring anchor-based reasoning (i.e., Stage 2 of ToC-ALIGN), the model reached an insertion accuracy of **92.46%**, showcasing its robustness in handling ambiguous matches.
 
 ### Scalability
 - **Batch Processing**: 60-180 documents per hour
