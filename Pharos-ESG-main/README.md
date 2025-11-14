@@ -1,6 +1,3 @@
-# Examples of sample datasets from the three regions will be presented during the feedback phase.
-
-
 ## System Architecture
 
 The system follows a multi-stage pipeline architecture with four main processing modules:
